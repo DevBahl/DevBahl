@@ -1,11 +1,11 @@
 ### Hello anonymous, I am Dev 👋
 
-## I'm a Learner and Developer!
+## I'm a Learner and a Developer!
 
 - I make Native Mobile Apps with Kotlin and Swift
-- Currently I majorly work on Android
-- I work mainly on Firebase for my backend and on Node.js for some cloud functions
-- Have decent knowledge with front-end web technologies such as HTML/CSS & jQuery
+- Currently I work on Android more
+- I work mainly on Firebase for backend and on Node.js for some cloud functions
+- I Have decent knowledge with front-end web technologies such as HTML5/CSS3 & jQuery
 - Trying to learn iOS in depth
 - I love to read and talk about space and cosmos
 
@@ -34,7 +34,7 @@
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
 <br />
 <br />
